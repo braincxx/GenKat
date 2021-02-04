@@ -1,0 +1,2 @@
+# GenKat
+generating obfuscation code
